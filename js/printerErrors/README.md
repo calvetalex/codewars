@@ -14,7 +14,7 @@ You have to write a function `printer_error` which given a string will return th
 The string has a length greater or equal to one and contains only letters from `a` to `z`.
 
 Examples:
-```
+```js
 s="aaabbbbhaijjjm"
 error_printer(s) => "0/14"
 
