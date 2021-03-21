@@ -14,7 +14,7 @@ In addition to letters, digits and some punctuation, there are some special serv
 Your task is to implement a function that would take the morse code as input and return a decoded human-readable string.
 
 For example:
-```
+```python
 decodeMorse('.... . -.--   .--- ..- -.. .')
 #should return "HEY JUDE"
 ```

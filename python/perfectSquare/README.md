@@ -10,7 +10,7 @@ Complete the `findNextSquare` method that finds the next integral perfect square
 If the parameter is itself not a perfect square then `-1` should be returned. You may assume the parameter is positive.
 
 Examples:
-```
+```python
 findNextSquare(121) --> returns 144
 findNextSquare(625) --> returns 676
 findNextSquare(114) --> returns -1 since 114 is not a perfect
